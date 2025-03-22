@@ -10,7 +10,7 @@ Install [Cmake](https://cmake.org/download/)
 Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 1. Clone or download the zip
-2. Run the batch file in the build/ folder
+2. Run the batch file in the scripts/ folder
 3. Open the .sln file and press F5 to run or press the Local Windows Debugger Button
 
 # Features
@@ -27,6 +27,7 @@ Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 - WASD = move
 - Up / Down = pitch camera
 - Space = drop the package
+- Shift = descend faster
 
 ### Terrain Editor
 
