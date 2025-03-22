@@ -11,7 +11,7 @@ Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 1. Clone or download the zip
 2. Run the batch file in the scripts/ folder
-3. Open the .sln file and press F5 to run or press the Local Windows Debugger Button
+3. Open the .sln file in the build directory in the root and press F5 to run or press the Local Windows Debugger Button
 
 # Features
 
